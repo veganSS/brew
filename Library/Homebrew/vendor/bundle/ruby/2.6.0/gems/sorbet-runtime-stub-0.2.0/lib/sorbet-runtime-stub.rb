@@ -1,4 +1,4 @@
-# typed: ignore
+# typed: false
 
 begin
   gem "sorbet-runtime"
